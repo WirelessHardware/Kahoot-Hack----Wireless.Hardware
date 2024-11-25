@@ -10,9 +10,9 @@
 # Coming Soon
 All Answers Correct
 
+_____________________________________________________________________
 
-
-This is the offical Kahoot hack page from Wireless Hardware... 
+## This is the offical Kahoot hack page from Wireless Hardware... 
 
 GO TO BOOKMARKLET.JS AND DRAG THE CODE INTO BOOKMARKS BAR 
 OR WATCH TUTORIAL ON THE WIRELESS HARDWARE YOUTUBE CHANNEL BELOW
