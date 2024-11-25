@@ -1,11 +1,11 @@
 # Tutorial
 
-Copy the contents of bookmarklet.js
-Paste them into your bookmarks bar
-Enter a kahoot game
-Click the added bookmark for the hack
-Follow the directions given from there
-THE ANSWER WILL HAVE ROUNDED CORNERS
+1. Copy the contents of bookmarklet.js
+2. Paste them into your bookmarks bar
+3. Enter a kahoot game
+4. Click the added bookmark for the hack
+5. Follow the directions given from there
+6. THE ANSWER WILL HAVE ROUNDED CORNERS
 
 # Coming Soon
 All Answers Correct
